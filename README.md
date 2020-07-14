@@ -23,7 +23,7 @@ Solutions and Notes for Coursera Specialization - [Applied Data Science with Pyt
 - [x] [Solution to Week 1](https://github.com/Xwyzworms/AppliedDataScience/tree/master/Applied%20Machine%20Learning/Week%201)
 - [x] [Solution to Week 2](https://github.com/Xwyzworms/AppliedDataScience/tree/master/Applied%20Machine%20Learning/Week%202)
 - [x] [Solution to Week 3](https://github.com/Xwyzworms/AppliedDataScience/tree/master/Applied%20Machine%20Learning/Week%203)
-- [ ] [Solution to Week 4]()
+- [x] [Solution to Week 4](https://github.com/Xwyzworms/AppliedDataScience/tree/master/Applied%20Machine%20Learning/Week%204)
 
 ### [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 - [ ] [Solution to Week 1]()
